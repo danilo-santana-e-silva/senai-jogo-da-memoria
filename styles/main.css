@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+    margin: 0px;
+    align-items: center;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+#jogo-da-memoria {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: orange;
+}
+
+.card {
+    margin: 20px;
+    background-color: mediumpurple;
+    line-height: 150px;
+    width: 150px;
+}
+

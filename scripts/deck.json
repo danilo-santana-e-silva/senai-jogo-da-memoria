@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "1.png",
+        "src": "./images/deck/1.png"
+    },
+    {
+        "id": 2,
+        "name": "2.png",
+        "src": "./images/deck/2.png"
+    },
+    {
+        "id": 3,
+        "name": "2.png",
+        "src": "./images/deck/2.png"
+    }
+]
